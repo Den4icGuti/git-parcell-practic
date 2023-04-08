@@ -1,0 +1,28 @@
+{
+  "name": "git-parcell-practic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Den4icGuti/git-parcell-practic.git"
+  },
+  "keywords": [],
+  "author": "YOUR_NAME <YOUR_EMAIL>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Den4icGuti/git-parcell-practic/issues"
+  },
+  "homepage": "https://github.com/Den4icGuti/git-parcell-practic#readme",
+  "dependencies": {
+    "@vimeo/player": "^2.18.0",
+    "simplelightbox": "^2.13.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
